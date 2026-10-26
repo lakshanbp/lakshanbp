@@ -33,6 +33,8 @@ I'm a developer interested in building practical software solutions, modern web 
 
 ## 🛠️ Technologies & Tools
 
+<div align="center">
+  
 ### Programming & Web Development
 
 <p>
@@ -50,7 +52,7 @@ I'm a developer interested in building practical software solutions, modern web 
 <p>
 <img src="https://skillicons.dev/icons?i=linux,docker,aws,azure,githubactions" alt="Cloud and DevOps technologies"/>
 </p>
-
+</div>
 *Note: These icons are a technology showcase. Keep only the technologies you can genuinely use or are actively learning.*
 
 ---

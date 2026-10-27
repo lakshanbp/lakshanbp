@@ -51,7 +51,7 @@ I'm a developer interested in building practical software solutions, modern web 
 ### Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,docker,aws,azure,githubactions" alt="Cloud and DevOps technologies"/>
+<img src="https://skillicons.dev/icons?i=docker,aws,azure,githubactions" alt="Cloud and DevOps technologies"/>
 </p>
 </div>
 *Note: These icons are a technology showcase. Keep only the technologies you can genuinely use or are actively learning.*
@@ -82,21 +82,27 @@ Explore my other repositories to discover my development work, experiments, and 
 
 ---
 
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lakshanbp&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<a href="https://github.com/lakshanbp">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=lakshanbp&show_icons=true&theme=dark&hide_border=true&rank_icon=github" alt="Lakshan's GitHub statistics"/>
+</a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshanbp&layout=compact&hide_border=true" alt="Most used programming languages"/>
+<a href="https://github.com/lakshanbp">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshanbp&layout=compact&theme=dark&hide_border=true" alt="Most used programming languages"/>
+</a>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=lakshanbp&theme=dark&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=lakshanbp&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
+---
 
 ---
 

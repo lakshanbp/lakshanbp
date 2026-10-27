@@ -37,7 +37,7 @@ I’m a developer interested in building practical software solutions, modern we
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy.gif" width="280" alt="Developer animation"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd21rdDZwMXFraGE2ejBuMnJ2aGliYW5vMTBuMGM2emh5ejZvMG1sMiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/QaMhVZVwOvDiw/giphy.gif" width="280" alt="Developer animation"/>
 
 </td>
 </tr>

@@ -54,7 +54,7 @@ I'm a developer interested in building practical software solutions, modern web 
 <img src="https://skillicons.dev/icons?i=docker,aws,azure,githubactions" alt="Cloud and DevOps technologies"/>
 </p>
 </div>
-*Note: These icons are a technology showcase. Keep only the technologies you can genuinely use or are actively learning.*
+
 
 ---
 

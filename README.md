@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW91dm5qM2o4bTE0MWhzcTFuNGVjdWdiM3l0NmlxNm5iazg5ZTd5YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dP0WAyNyTKSNqNm6zn/giphy.gif" width="20%" alt="Welcome animation"/>
 
 # 👋 Hi, I'm Lakshan Perera
 

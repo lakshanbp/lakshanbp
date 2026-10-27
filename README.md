@@ -21,7 +21,11 @@ Building modern web applications and exploring cloud technologies.
 
 ## 🚀 About Me
 
-I'm a developer interested in building practical software solutions, modern web applications, and cloud-based systems.
+<table>
+<tr>
+<td width="60%" valign="middle">
+
+I’m a developer interested in building practical software solutions, modern web applications, and cloud-based systems.
 
 - 💻 Interested in Full-Stack Web Development.
 - ☁️ Exploring Cloud Engineering and DevOps.
@@ -29,6 +33,17 @@ I'm a developer interested in building practical software solutions, modern web 
 - 🛠️ Enjoy solving technical problems and learning new technologies.
 - 📚 Continuously improving my software development skills.
 - 🎯 Goal: Contribute to innovative software and cloud projects.
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy.gif" width="280" alt="Developer animation"/>
+
+</td>
+</tr>
+</table>
+
+---
 
 ---
 

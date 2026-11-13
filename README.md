@@ -1,6 +1,7 @@
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d3MxODE4a2U0cDRoN285NmhqaTgwanNtYTRxMWFrc3E5Yno5a2ppbiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif" width="20%" alt="Welcome animation"/>
-
+  
+  <img src="web-developer.gif" width="400" />
+</div>
 <h1 align="center">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif"
        width="35"

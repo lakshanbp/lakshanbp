@@ -1,7 +1,7 @@
 <div align="center">
   
-  <img src="web-developer.gif" width="400" />
-</div>
+  <img src="web-developer.gif" width="200" />
+
 <h1 align="center">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif"
        width="35"
